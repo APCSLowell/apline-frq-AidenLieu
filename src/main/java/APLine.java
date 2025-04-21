@@ -1,8 +1,8 @@
 public class APLine
 {
-  private int aa;
-  private int bb;
-  private int cc;
+  private double aa;
+  private double bb;
+  private double cc;
   public APLine(int a, int b, int c){
     aa = a;
     bb = b;
